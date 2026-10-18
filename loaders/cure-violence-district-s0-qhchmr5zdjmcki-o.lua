@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/cure-violence-district-s0-qhchmr5zdjmcki.lua"))()
