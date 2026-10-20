@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/new-mythic-hypershot-spam1-xjx2t9ilgpj6vv.lua"))()
