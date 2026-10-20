@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/eat-everything-in-a-grocery-store-spam0-webk5bqegywige.lua"))()
