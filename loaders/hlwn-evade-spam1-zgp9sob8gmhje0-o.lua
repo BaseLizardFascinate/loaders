@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/hlwn-evade-spam1-zgp9sob8gmhje0.lua"))()
