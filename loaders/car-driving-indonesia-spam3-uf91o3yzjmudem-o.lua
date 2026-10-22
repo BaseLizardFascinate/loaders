@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/car-driving-indonesia-spam3-uf91o3yzjmudem.lua"))()
