@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/slayers-2-spam3-y042ub7gm9p5vt.lua"))()
