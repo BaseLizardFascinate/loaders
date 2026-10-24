@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/forsaken-spam0-c9hqzctdm9w9sw.lua"))()
