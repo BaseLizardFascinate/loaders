@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/build-a-soccer-club-spam2-yqzflnsio4puu2.lua"))()
