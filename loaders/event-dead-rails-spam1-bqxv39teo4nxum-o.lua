@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/event-dead-rails-spam1-bqxv39teo4nxum.lua"))()
