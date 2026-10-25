@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/fathom-horror-spam3-tldzyudjo2x6xe.lua"))()
